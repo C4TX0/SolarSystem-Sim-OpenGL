@@ -9,4 +9,5 @@ public class Constants {
     public static final double G = 1.0;
     public static final double EPS = 0.2;
     public static final double MAX_DIST = 1000.0;
+    public static final double MIN_MASSIVE = 0.1;
 }
